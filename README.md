@@ -131,6 +131,7 @@ For [Nebius AI](https://nebius.ai/), we provide a Terraform recipe that creates 
   File storages are distributed filesystems focused on concurrent reads and writes.
 
 Everything specific to Nebius AI is contained in a separate repository:
+[nebius-solution-library](https://github.com/nebius/nebius-solution-library/tree/main/soperator) or in the older version of
 [nebius/soperator-terraform](https://github.com/nebius/soperator-terraform).
 
 [//]: # (TODO: Change repo in the link when it's moved to Nebius SA library)
